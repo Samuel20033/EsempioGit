@@ -7,6 +7,7 @@ Console.WriteLine("Pippo");
 Console.WriteLine("Prova pull request");
 Console.WriteLine("Test Gabriele");
 Console.WriteLine("Test Anna");
+Console.WriteLine("Test Delete");
 
 
 
