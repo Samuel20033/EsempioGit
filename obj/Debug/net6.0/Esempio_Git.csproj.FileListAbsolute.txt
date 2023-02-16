@@ -1,0 +1,15 @@
+C:\Progetti\GIT\Esempio_Git\bin\Debug\net6.0\Esempio_Git.exe
+C:\Progetti\GIT\Esempio_Git\bin\Debug\net6.0\Esempio_Git.deps.json
+C:\Progetti\GIT\Esempio_Git\bin\Debug\net6.0\Esempio_Git.runtimeconfig.json
+C:\Progetti\GIT\Esempio_Git\bin\Debug\net6.0\Esempio_Git.dll
+C:\Progetti\GIT\Esempio_Git\bin\Debug\net6.0\Esempio_Git.pdb
+C:\Progetti\GIT\Esempio_Git\obj\Debug\net6.0\Esempio_Git.csproj.AssemblyReference.cache
+C:\Progetti\GIT\Esempio_Git\obj\Debug\net6.0\Esempio_Git.GeneratedMSBuildEditorConfig.editorconfig
+C:\Progetti\GIT\Esempio_Git\obj\Debug\net6.0\Esempio_Git.AssemblyInfoInputs.cache
+C:\Progetti\GIT\Esempio_Git\obj\Debug\net6.0\Esempio_Git.AssemblyInfo.cs
+C:\Progetti\GIT\Esempio_Git\obj\Debug\net6.0\Esempio_Git.csproj.CoreCompileInputs.cache
+C:\Progetti\GIT\Esempio_Git\obj\Debug\net6.0\Esempio_Git.dll
+C:\Progetti\GIT\Esempio_Git\obj\Debug\net6.0\refint\Esempio_Git.dll
+C:\Progetti\GIT\Esempio_Git\obj\Debug\net6.0\Esempio_Git.pdb
+C:\Progetti\GIT\Esempio_Git\obj\Debug\net6.0\Esempio_Git.genruntimeconfig.cache
+C:\Progetti\GIT\Esempio_Git\obj\Debug\net6.0\ref\Esempio_Git.dll
