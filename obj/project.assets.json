@@ -8,19 +8,23 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Saefrati\\.nuget\\packages\\": {}
+    "C:\\Users\\denefrat\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Progetti\\GIT\\EsempioGit\\Esempio_Git.csproj",
+      "projectUniqueName": "C:\\Appo2\\EsempioGit\\Esempio_Git.csproj",
       "projectName": "Esempio_Git",
-      "projectPath": "C:\\Progetti\\GIT\\EsempioGit\\Esempio_Git.csproj",
-      "packagesPath": "C:\\Users\\Saefrati\\.nuget\\packages\\",
-      "outputPath": "C:\\Progetti\\GIT\\EsempioGit\\obj\\",
+      "projectPath": "C:\\Appo2\\EsempioGit\\Esempio_Git.csproj",
+      "packagesPath": "C:\\Users\\denefrat\\.nuget\\packages\\",
+      "outputPath": "C:\\Appo2\\EsempioGit\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Saefrati\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\denefrat\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
